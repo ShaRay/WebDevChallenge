@@ -107,7 +107,7 @@
 
 ### Git
 - [ ] Set up two different GitHub accounts, and learn how to SSH different projects with different accounts.
-- [ ] Use command line to push a Git repository from a local environment to a live server. ~ [Getting Started with Git](http://www.taniarascia.com/getting-started-with-git/)
+- [x] Use command line to push a Git repository from a local environment to a live server. ~ [Getting Started with Git](http://www.taniarascia.com/getting-started-with-git/)
 - [ ] Squash different Git commits together
 - [ ] Try creating a pull request on another repository at the command line. You never know what good stuff could happen...
 
