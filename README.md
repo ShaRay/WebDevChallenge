@@ -79,7 +79,7 @@
 - [ ] Create a basic CSS3 animation which uses opacity, transform and keyframes.
 - [ ] Try a preprocessor like LESS, SASS or Stylus.
 - [ ] Create a responsive grid with flexbox ~ [Easiest Flex Grid Ever](http://www.taniarascia.com/easiest-flex-grid-ever/)
-- [ ] Create a basic website using Bootstrap
+- [x] Create a basic website using Bootstrap - https://github.com/ShaRay/nicole-photography
 - [x] Create a basic website using Foundation - https://github.com/ShaRay/leaf-it-to-me
 - [ ] Create a pure CSS parallax scrolling effect
 
